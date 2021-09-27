@@ -11,7 +11,7 @@ learning and AI algorithms for medical Imaging and patient monitoring systems.
 
 10+ Conference and journal publications, 15+ Filed US patents. 
 
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
