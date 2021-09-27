@@ -10,16 +10,16 @@ learning and AI algorithms for medical Imaging and patient monitoring systems.
 
 ### Research Interests
 
-<dd>Technologies at the intersection of advanced AI techniques and domain-specific 
+Technologies at the intersection of advanced AI techniques and domain-specific 
 knowledge for challenging and relevant healthcare analytics problems. Recent research in 
-methods for adapting deep learning methods across domains and devices,continuous learning and generalization of AI models for medical imaging & patient monitoring systems.</dd>
+methods for adapting deep learning methods across domains and devices,continuous learning and generalization of AI models for medical imaging & patient monitoring systems.
 
 
 ### Education
-    PhD., Computational and Data Science Department (Oct 2020-current) 
+    <dd>PhD., Computational and Data Science Department (Oct 2020-current) 
     Indian Institute of Science, Bangalore. 
     Research advisor: Dr. Phaneendra K. Yelavarthy 
-    CGPA: 10/10 
+    CGPA: 10/10 </dd>
     
     M. Tech, Electrical Engineering (2008-2010) 
     IIT, Madras 
