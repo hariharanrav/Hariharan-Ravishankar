@@ -8,6 +8,7 @@ I'm  pursuing my PhD in CDS department of Indian Institute of Science, Bangalore
 
 10+ years of experience in Research and Development of Computer vision, machine 
 learning and AI algorithms for medical Imaging and patient monitoring systems. 
+
 10+ Conference and journal publications, 15+ Filed US patents. 
 
 Syntax highlighted code block
