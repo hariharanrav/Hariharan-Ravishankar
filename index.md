@@ -1,5 +1,6 @@
 ## Hariharan Ravishankar
-I'm currently Senior Scientist, at Advanced Technology group at Wipro GE Healthcare, Bangalore
+I'm currently Senior Scientist, at Advanced Technology group at Wipro GE Healthcare, Bangalore. 
+I'm also pursuing my PhD in CDS department of Indian Institute of Science, Bangalore under the guidance of Dr. Phaneendra K. Yelavarthy. 
 
 ### Hariharan Ravishankar
 
