@@ -16,13 +16,7 @@ methods for adapting deep learning methods across domains and devices,continuous
 
 
 ### Education
-- PhD., Computational and Data Science Department (Oct 2020-current) 
-
-  Indian Institute of Science, Bangalore. 
-
-  Research advisor: Dr. Phaneendra K. Yelavarthy 
-
-CGPA: 10/10 
+- PhD., Computational and Data Science Department (Oct 2020-current), <br/> Indian Institute of Science, Bangalore. <br/> Research advisor: Dr. Phaneendra K. Yelavarthy. <br/>CGPA: 10/10 
     
 - M. Tech, Electrical Engineering (2008-2010) 
 
