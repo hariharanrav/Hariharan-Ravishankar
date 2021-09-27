@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
-title: [Dhenda Daddy Ravishankar]
+title: [Hariharan Ravishankar]
 github:
   is_project_page: false
 logo: "photo.jpg" 
+social-network-links:
+  email: "someone@example.com"
