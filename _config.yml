@@ -2,14 +2,6 @@ theme: jekyll-theme-minimal
 title: [Hariharan Ravishankar]
 github:
   is_project_page: false
-logo: "photo.jpg"
-author:
-  name             : "MISP Standard"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "International"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: hariharanrav@iisc.ac.in
+logo: "photo.jpg" 
+social-network-links:
+  email: "someone@example.com"
