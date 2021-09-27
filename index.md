@@ -16,9 +16,9 @@ methods for adapting deep learning methods across domains and devices,continuous
 
 
 ### Education
-- PhD, CDS department (Oct 2020-current), <br/> Indian Institute of Science, Bangalore, <br/> Research advisor: Dr. Phaneendra K. Yelavarthy, <br/> Lab: [MIG](http://cds.iisc.ac.in/faculty/phani/MIG/index.html#:~:text=Medical%20Imaging%20Group%20(MIG)%20is,medical%20image%20computing%20and%20analysis.),  <br/>CGPA: 10/10 
+- PhD, CDS department (Oct 2020-current), <br/> Indian Institute of Science, Bangalore, <br/> Research advisor: [Dr. Phaneendra K. Yelavarthy](http://cds.iisc.ac.in/faculty/yalavarthy/), <br/> Lab: [MIG](http://cds.iisc.ac.in/faculty/phani/MIG/index.html#:~:text=Medical%20Imaging%20Group%20(MIG)%20is,medical%20image%20computing%20and%20analysis.)  <br/>CGPA: 10/10 
     
-- M. Tech, Electrical Engineering (2008-2010),<br/> Indian Institue of Technology, Madras,  <br/> Research advisor: Dr. A. N. Rajagopalan, <br> Lab: [IPCV](http://www.ee.iitm.ac.in/ipcvlab/),<br/> CGPA: 9.74/10
+- M. Tech, Electrical Engineering (2008-2010),<br/> Indian Institue of Technology, Madras,  <br/> Research advisor: [Dr. A. N. Rajagopalan](https://www.ee.iitm.ac.in/~raju/), <br> Lab: [IPCV](http://www.ee.iitm.ac.in/ipcvlab/),<br/> CGPA: 9.74/10
     
 - BTech., Electronics and communication Engineering (2004-2008), <br/>, Madras Institute of technology, Anna University, Chennai, <br/>CGPA :9.7/10 
 ## Header 2
