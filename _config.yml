@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: [Hariharan Ravishankar]
 github:
   is_project_page: false
-logo: "/assets/images/88x88.png"
+logo: "photo.jpg"
 author:
   name             : "MISP Standard"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
