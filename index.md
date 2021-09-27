@@ -29,38 +29,37 @@ methods for adapting deep learning methods across domains and devices,continuous
 
 ### Publications
 1. Pavan Annangi, **Hariharan Ravishankar** et al., **_"AI assisted feedback system for transmit parameter 
-optimization in Cardiac Ultrasound"_**, IEEE Ultrasonics Symposium, 2020 
+optimization in Cardiac Ultrasound"_**, IEEE Ultrasonics Symposium, 2020.
 2. **Hariharan Ravishankar**, et al. **"_Feature Transformers: Privacy Preserving Lifelong Learners for 
 Medical Imaging_"**, International Conference on Medical Image Computing and Computer-Assisted 
 Intervention. Springer, Cham, 2019. 
 3. **Hariharan Ravishankar**. et al. **"_Towards Continuous Domain Adaptation For Medical Imaging_"** 
 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019). IEEE, 2019. 
-4. Hariharan Ravishankar, et al. "Learning and incorporating Shape properties in deep learning for 
-semantic segmentation." International Conference on Medical Image Computing and Computer 
-Assisted Intervention, 2017 
-5. Hariharan Ravishankar, et al. "Joint Deep Learning of Foreground, Background and Shape for 
-Robust Contextual Segmentation." International Conference on Information Processing in Medical 
+4. **Hariharan Ravishankar**, et al. **_"Learning and incorporating Shape properties in deep learning for 
+semantic segmentation._"**, International Conference on Medical Image Computing and Computer 
+Assisted Intervention, 2017.
+5. **Hariharan Ravishankar**, et al. **_"Joint Deep Learning of Foreground, Background and Shape for 
+Robust Contextual Segmentation_"** International Conference on Information Processing in Medical 
 Imaging. Springer, Cham, 2017. 
-6. Hariharan Ravishankar, et al. "Understanding the mechanisms of deep transfer learning for 
-medical images." International Workshop on Large-Scale Annotation of Biomedical Data and Expert 
+6. **Hariharan Ravishankar**, et al. **_"Understanding the mechanisms of deep transfer learning for 
+medical images."_** International Workshop on Large-Scale Annotation of Biomedical Data and Expert 
 Label Synthesis. Springer International Publishing, 2016. 
-7. Hariharan Ravishankar, et al. "Filter sharing: Efficient learning of parameters for volumetric 
-convolutions." arXiv preprint arXiv:1612.02575 (2016). 
-8. Hariharan Ravishankar, et al. "Recursive feature elimination for biomarker discovery in restingstate functional connectivity." Engineering in Medicine and Biology Society (EMBC), 2016 IEEE 38th 
-Annual International Conference of the. IEEE, 2016. 
-9. Hariharan Ravishankar, et al. "Hybrid approach for automatic segmentation of fetal abdomen 
-from ultrasound images using deep learning." Biomedical Imaging (ISBI), 2016 IEEE 13th International 
+7. **Hariharan Ravishankar**, et al. **_"Filter sharing: Efficient learning of parameters for volumetric 
+convolutions."_**, arXiv preprint arXiv:1612.02575 (2016). 
+8. **Hariharan Ravishankar**, et al. **_"Recursive feature elimination for biomarker discovery in resting-state functional connectivity."_** Engineering in Medicine and Biology Society (EMBC), 2016 IEEE 38th Annual International Conference of the. IEEE, 2016. 
+9. **Hariharan Ravishankar**, et al. **_"Hybrid approach for automatic segmentation of fetal abdomen 
+from ultrasound images using deep learning."_**, Biomedical Imaging (ISBI), 2016 IEEE 13th International 
 Symposium on. IEEE, 2016. 
-10. Hariharan Ravishankar, et al. "Automated kidney morphology measurements from ultrasound 
-images using texture and edge analysis." SPIE Medical Imaging. International Society for Optics and 
+10. **Hariharan Ravishankar**, et al. **_"Automated kidney morphology measurements from ultrasound 
+images using texture and edge analysis."_** SPIE Medical Imaging. International Society for Optics and 
 Photonics, 2016. 
-11. Hariharan Ravishankar, et al. "An early respiratory distress detection method with Markov 
-models." Engineering in Medicine and Biology Society (EMBC), 2014 36th Annual International 
+11. **Hariharan Ravishankar**, et al. **_"An early respiratory distress detection method with Markov 
+models."_** Engineering in Medicine and Biology Society (EMBC), 2014 36th Annual International 
 Conference of the IEEE. IEEE, 2014. 
-12. Ramachandrula, Sitaram, Shrang Jain, and Hariharan Ravishankar. "Offline handwritten word 
-recognition in Hindi." Proceeding of the workshop on Document Analysis and Recognition. ACM, 
+12. Ramachandrula, Sitaram, Shrang Jain, and **Hariharan Ravishankar**, **_"Offline handwritten word 
+recognition in Hindi."_** Proceeding of the workshop on Document Analysis and Recognition. ACM, 
 2012. 
-13. Hariharan Ravishankar, and A. N. Rajagopalan. "Shape-fro
+13. **Hariharan Ravishankar**, and A. N. Rajagopalan. **_"Shape-from-focus by tensor voting"_**, IEEE Transactions on image Processing 21.7 (2012): 3323-3328
 
 - Bulleted
 - List
