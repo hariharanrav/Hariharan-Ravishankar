@@ -24,6 +24,7 @@ methods for adapting deep learning methods across domains and devices,continuous
 ### Work Experience
 
 - **Senior Staff Data Scientist, GE Healthcare (2012- till date)** <br/> Advanced Technology Group, GE Healthcare (2019 - till date) <br/>Lead Scientist, GE Global Research (2015-2019) <br/> Research Scientist (2012-2015), GE Global Research
+- **Research Consultant, HP Labs India (2010-2012)** <br/> Researcher in areas of document image processing and handwriting recognition
 ### Header 3
 
 - Bulleted
