@@ -28,8 +28,8 @@ methods for adapting deep learning methods across domains and devices,continuous
 - **Research Consultant, HP Labs India (2010-2012)** <br/> Researcher in areas of document image processing and handwriting recognition
 
 ### Publications
-1. Pavan Annangi, Hariharan Ravishankar et al. AI assisted feedback system for transmit parameter 
-optimization in Cardiac Ultrasound, IEEE Ultrasonics Symposium, 2020 
+1. Pavan Annangi, **Hariharan Ravishankar** et al. **_AI assisted feedback system for transmit parameter 
+optimization in Cardiac Ultrasound_**, IEEE Ultrasonics Symposium, 2020 
 2. Hariharan Ravishankar, et al. "Feature Transformers: Privacy Preserving Lifelong Learners for 
 Medical Imaging." International Conference on Medical Image Computing and Computer-Assisted 
 Intervention. Springer, Cham, 2019. 
