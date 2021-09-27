@@ -1,4 +1,4 @@
-<img src="photo.jpg" width="100">
+<img src="photo.jpg" width="200">
 
 I'm currently Senior Scientist, at Advanced Technology group at [Wipro GE Healthcare, Bangalore](https://www.gehealthcare.in/).
 
