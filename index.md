@@ -1,10 +1,13 @@
 ## Hariharan Ravishankar
 I'm currently Senior Scientist, at Advanced Technology group at Wipro GE Healthcare, Bangalore. 
+
 I'm also pursuing my PhD in CDS department of Indian Institute of Science, Bangalore under the guidance of Dr. Phaneendra K. Yelavarthy. 
 
-### Hariharan Ravishankar
+### Summary
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+10+ years of experience in Research and Development of Computer vision, machine 
+learning and AI algorithms for medical Imaging and patient monitoring systems. 
+10+ Conference and journal publications, 15+ Filed US patents. 
 
 ```markdown
 Syntax highlighted code block
