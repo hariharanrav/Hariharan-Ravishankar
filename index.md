@@ -26,7 +26,41 @@ methods for adapting deep learning methods across domains and devices,continuous
 
 - **Senior Staff Data Scientist, GE Healthcare (current)** <br/> Advanced Technology Group, GE Healthcare (2019 - till date) <br/>Lead Scientist, GE Global Research (2015-2019) <br/> Research Scientist (2012-2015), GE Global Research
 - **Research Consultant, HP Labs India (2010-2012)** <br/> Researcher in areas of document image processing and handwriting recognition
-### Header 3
+
+### Publications
+1. Pavan Annangi, Hariharan Ravishankar et al. AI assisted feedback system for transmit parameter 
+optimization in Cardiac Ultrasound, IEEE Ultrasonics Symposium, 2020 
+2. Hariharan Ravishankar, et al. "Feature Transformers: Privacy Preserving Lifelong Learners for 
+Medical Imaging." International Conference on Medical Image Computing and Computer-Assisted 
+Intervention. Springer, Cham, 2019. 
+3. Hariharan Ravishankar. et al. "Towards Continuous Domain Adaptation For Medical Imaging." 
+2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019). IEEE, 2019. 
+4. Hariharan Ravishankar, et al. "Learning and incorporating Shape properties in deep learning for 
+semantic segmentation." International Conference on Medical Image Computing and Computer 
+Assisted Intervention, 2017 
+5. Hariharan Ravishankar, et al. "Joint Deep Learning of Foreground, Background and Shape for 
+Robust Contextual Segmentation." International Conference on Information Processing in Medical 
+Imaging. Springer, Cham, 2017. 
+6. Hariharan Ravishankar, et al. "Understanding the mechanisms of deep transfer learning for 
+medical images." International Workshop on Large-Scale Annotation of Biomedical Data and Expert 
+Label Synthesis. Springer International Publishing, 2016. 
+7. Hariharan Ravishankar, et al. "Filter sharing: Efficient learning of parameters for volumetric 
+convolutions." arXiv preprint arXiv:1612.02575 (2016). 
+8. Hariharan Ravishankar, et al. "Recursive feature elimination for biomarker discovery in restingstate functional connectivity." Engineering in Medicine and Biology Society (EMBC), 2016 IEEE 38th 
+Annual International Conference of the. IEEE, 2016. 
+9. Hariharan Ravishankar, et al. "Hybrid approach for automatic segmentation of fetal abdomen 
+from ultrasound images using deep learning." Biomedical Imaging (ISBI), 2016 IEEE 13th International 
+Symposium on. IEEE, 2016. 
+10. Hariharan Ravishankar, et al. "Automated kidney morphology measurements from ultrasound 
+images using texture and edge analysis." SPIE Medical Imaging. International Society for Optics and 
+Photonics, 2016. 
+11. Hariharan Ravishankar, et al. "An early respiratory distress detection method with Markov 
+models." Engineering in Medicine and Biology Society (EMBC), 2014 36th Annual International 
+Conference of the IEEE. IEEE, 2014. 
+12. Ramachandrula, Sitaram, Shrang Jain, and Hariharan Ravishankar. "Offline handwritten word 
+recognition in Hindi." Proceeding of the workshop on Document Analysis and Recognition. ACM, 
+2012. 
+13. Hariharan Ravishankar, and A. N. Rajagopalan. "Shape-fro
 
 - Bulleted
 - List
