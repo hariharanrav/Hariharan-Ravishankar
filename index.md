@@ -1,4 +1,5 @@
-<img src="photo.jpg" width="48">
+<img src="photo.jpg" width="100">
+
 I'm currently Senior Scientist, at Advanced Technology group at [Wipro GE Healthcare, Bangalore](https://www.gehealthcare.in/).
 
 I'm  pursuing my PhD in [CDS](https://cds.iisc.ac.in/) department of Indian Institute of Science, Bangalore under the guidance of Dr. Phaneendra K. Yelavarthy, in the [medical imaging group](http://cds.iisc.ac.in/faculty/phani/MIG/index.html#:~:text=Medical%20Imaging%20Group%20(MIG)%20is,medical%20image%20computing%20and%20analysis.).
