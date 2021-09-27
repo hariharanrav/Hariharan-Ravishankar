@@ -9,10 +9,11 @@ learning and AI algorithms for medical Imaging and patient monitoring systems.
 10+ Conference and journal publications, 15+ Filed US patents. 
 
 ### Research Interests
-<dt>textAlign(str)</dt>
-Technologies at the intersection of advanced AI techniques and domain-specific 
+
+ <dt>justify</dt>
+ <dd>Technologies at the intersection of advanced AI techniques and domain-specific 
 knowledge for challenging and relevant healthcare analytics problems. Recent research in 
-methods for adapting deep learning methods across domains and devices,continuous learning and generalization of AI models for medical imaging & patient monitoring systems.
+methods for adapting deep learning methods across domains and devices,continuous learning and generalization of AI models for medical imaging & patient monitoring systems.</dd>
 
 
 # Header 1
