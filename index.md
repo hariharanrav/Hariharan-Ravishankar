@@ -23,7 +23,7 @@ methods for adapting deep learning methods across domains and devices,continuous
 - **B. Tech, Electronics and communication Engineering (2004-2008)**, <br/>Madras Institute of technology, Anna University, Chennai, <br/>CGPA :9.7/10 
 ### Work Experience
 
-- **Senior Staff Data Scientist, GE Healthcare (2012- till date)** <br/> Advanced Technology Group, GE Healthcare (2019 - till date) <br/>Lead Scientist, GE Global Research (2015-2019) <br/> Research Scientist (2012-2015), GE Global Research
+- **Senior Staff Data Scientist, GE Healthcare (current)** <br/> Advanced Technology Group, GE Healthcare (2019 - till date) <br/>Lead Scientist, GE Global Research (2015-2019) <br/> Research Scientist (2012-2015), GE Global Research
 - **Research Consultant, HP Labs India (2010-2012)** <br/> Researcher in areas of document image processing and handwriting recognition
 ### Header 3
 
