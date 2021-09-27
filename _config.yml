@@ -2,7 +2,6 @@ theme: jekyll-theme-minimal
 title: [Hariharan Ravishankar]
 github:
   is_project_page: false
-avatar: "photo.jpg" 
-round-avatar: true
+logo: "photo.jpg" 
 social-network-links:
   email: "someone@example.com"
