@@ -57,8 +57,7 @@ Photonics, 2016.
 models."_** Engineering in Medicine and Biology Society (EMBC), 2014 36th Annual International 
 Conference of the IEEE. IEEE, 2014. 
 12. Ramachandrula, Sitaram, Shrang Jain, and **Hariharan Ravishankar**, **_"Offline handwritten word 
-recognition in Hindi."_** Proceeding of the workshop on Document Analysis and Recognition. ACM, 
-2012. 
+recognition in Hindi."_** Proceeding of the workshop on Document Analysis and Recognition. ACM, 2012. 
 13. **Hariharan Ravishankar**, and A. N. Rajagopalan. **_"Shape-from-focus by tensor voting"_**, IEEE Transactions on image Processing 21.7 (2012): 3323-3328
 
 - Bulleted
